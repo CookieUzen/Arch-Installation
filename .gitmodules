@@ -1,0 +1,9 @@
+[submodule "installation/yay"]
+	path = installation/yay
+	url = https://aur.archlinux.org/yay.git
+[submodule "installation/dmenu"]
+	path = installation/dmenu
+	url = https://github.com/cookieuzen/dmenu.git
+[submodule "installation/st"]
+	path = installation/st
+	url = https://github.com/cookieuzen/st.git
