@@ -29,6 +29,30 @@ The Xorg Server (Commonly referred to as _X_) is one of the most popular display
   
 Generally many programs that creates windows or displays non text objects (e.g. pictures) requires a display server to run in.
 
+## Desktop Environment
+A Desktop Environment builds upon the Display Server. It creates GUI user environment for the users to interact in. They are what change the appearance of desktops and provides you ways to interact with programs. There are many different Desktop Environments. The list below will show some popular choices:  
+- Gnome (A modern Display Manager that is default on many Linux Distros)
+- MATE (a fork of the now deprecated GNOME 2 Desktop Environment)
+- KDE (a modern, slick Qt based Desktop Environment)
+- XFCE (a light weight Desktop Environment)
+  
+## Window Manager
+A Window Manager is an interesting twist to a Desktop Environments. Instead of using a mouse control and manipulated your computer, Window Manager allows you to directly control your computers with keyboard shortcuts.
+  
+It is design for people who mainly interact with terminals and CLIs. Generally, they are minimalistic but provides much customizability and control. You can imagine it as "tmux" for your Desktop Environment. 
+  
+Popular Window Manager includes:
+- i3 (most common window manager with easy configurations)
+- dwm (A Minimalistic, Suckless Window Manger)
+- bspwm (A modular Window Manager that allows for extreme customization)
+- openbox (A configurable, modern Window Manger)
+
+## Display Manager
+A display manager provides a graphical interface to login to your Desktop Environment/Window Manager. Many Desktop Environments includes one in their installation. While Window Managers generally requires you to install your own. Some common display managers are:
+- Lightdm (a light weight, multiple backend Display Manager)
+- GDM (Default Display Manager for Gnome)
+- sddm (Default KDE Display Manager)
+
 ## Compositor
 Many modern day Desktop Environments looks good. It's windows have slick edges, transparent background with a smudge of blur on top. This is the job of the compositor. The compositor takes in windows from the Xorg Server, and puts the windows in the right place, with the right settings, and the right look. 
   
