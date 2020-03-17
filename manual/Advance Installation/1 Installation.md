@@ -64,7 +64,7 @@ Now, we need to chroot into our installation and configure the system.
 ```
 arch-chroot /mnt 
 ```
-  
+## Timezone
 Set up your timezones:
 ```bash
 ln -sf /usr/share/zoneinfo/Region/City /etc/localtime
@@ -76,8 +76,9 @@ Update the system clock in the process.
 ```bash
 hwclock --systohc
 ```
-  
-Set up the language/local of the system:
+
+## Language/Locale
+Set up the language/locale of the system:
 ```bash
 vim /etc/locale.gen # Or use your chosen EDITOR
 ```
@@ -89,13 +90,14 @@ Assign your local in `/etc/locale.conf`
 ```bash
 echo "LANG=en_US.UTF-8" >> /etc/locale.conf # Or use your chosen locales
 ```
-  
+## Keyboard Layout
 Make your keyboard layout persistent by editing `/etc/vconsole.conf `
 ```bash
 /etc/vconsole.conf
 echo "KEYMAP=de-latin1" >> /etc/vconsole.conf # Or use your chosen keyboard layout
 ```
-  
+
+## Hostname
 Configure your network hostname by editing `/etc/hostname`
 ```bash
 echo "myhostname" >> /etc/hostname # Replace myhostname with your hostname
@@ -108,12 +110,13 @@ And also create the hosts file. Add the following to `/etc/hosts` (and replace m
 ::1		localhost
 127.0.1.1	myhostname.localdomain	myhostname
 ```
-  
+## Initramfs
 Lastly, we need to generate the Initramfs.
 ```
 mkinitcpio -P
 ```
-  
+
+## Root Password
 Change the root password of the computer by executing:
 ```bash
 passwd
