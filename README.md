@@ -7,7 +7,7 @@ In this folder, I will go through an standard installation of Linux. I mainly co
   
 If you are a beginner, and perform your first installation of Linux, click [here](./manual/Installation/README.md).
   
-If you are have some experience with Unix based system, and would like to perform a more challenging Linux installation, click [here](./manual/Advance Installation/README.md).
+If you are have some experience with Unix based system, and would like to perform a more challenging Linux installation, click [here](./manual/Advance\ Installation/README.md).
   
 If you have an existing Linux installation and want to _rice it_ (make it cooler and better), click [here](./manual/Ricing/README.md)
   

@@ -13,7 +13,7 @@ This guide will assume an installation with the KDE Plasma and i3 Desktop Enviro
 Generally, a good choice for a DE would be KDE, Gnome or xfce. However, there are many other choices out there.
 
 ## Requirements
-Linux itself is an extremely resources light, it is capable of running on almost any hardware. Also, we will be running a lightweight distribution and DE, so really you can transform any computer into a Linux machine. Although be aware that if you do use a slow computer, some processor intensive tasks such as bluring background can cause severe lag.
+Linux itself is an extremely resources light, it is capable of running on almost any hardware. Also, we will be running a lightweight distribution and DE, so really you can transform any computer into a Linux machine. Although be aware that if you do use a slow computer, some processor intensive tasks such as blurring background can cause severe lag.
   
 Also, when using Apple computers, some additional settings and configurations may need to be installed. Extra time may need to be put in to ensure a successful installation.
 

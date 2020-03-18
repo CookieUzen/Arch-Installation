@@ -6,6 +6,7 @@ Installed Linux with the installation guide. It wasn't that bad now, was it? Car
   
 I have to warn you though, it's not easy. I myself been through many failed installation. But the reward is immense. 
 
+## Table Of Contentes
 
 ## Footnotes
 1. Actually, Manjaro Architect is based off the famous [Architect](http://landoflinux.com/linux_install_architect_linux.html) installer for Arch Linux. There is also the [Zen Installer](https://github.com/spookykidmm/zen_installer).

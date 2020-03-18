@@ -4,7 +4,7 @@ For many students, Linux has always been a name buzzing around the Internet. Oft
 This guide aims to provide a easy starting point for willing students to installing Linux on your computer.
 
 ## Why Use Linux?
-There are many benefits of using Linux as a *student*.  
+There are many benefits of using Linux as a _consumer_.  
 
 ### Price
 Most well known OSes are commercial. Meaning that companies produce software and create the operating system for the end user. However, this means a lot of the time, these software cost money. For example, Microsoft requires purchasing a license for the installation of windows, Adobe requires a monthly subscription to gain access to their suit of softwares. 
@@ -13,32 +13,25 @@ Linux on the other hand is open sourced. This means that it is made by the commu
 
 ### Fast
 Linux also have a strong focus on efficiency. Programs are designed to be modular, work together and as light as possible. 
-
 - lightweight
-- you chose how much power
-- improved battery
-- old hardware
+- improves battery
+- support for old hardware (due to little processing power needed)
 
 ### Support
-- many help
-- well documented
+- Lots of Help Online (From many active forums members)
+- well documented (great wikis online if you are willing to read them)
 
 ### Stability
-- safe
-- drivers
-- windows update/random shutdown
-- mac heat issues
+- safe (less virus)
+- less breakdowns versus other Operating Systems.
 
 ### Easy Management
-- Program Installation
-- Cluster of files VS organized folders
+- Package Managers (allows for easy installation)
 - backup (secure)
-- dotfiles
+- dotfiles (allow for easy set up and advance setting tweaking)
 
 ### Personal
-- Own WM/DE
-- Own configuration
-- Unixporn
+- Own configuration (high amounts of reconfigurability)
 
 ## Special Note
 **Learning Linux is not a one day task:** you will not be able to do everything in a day. To fully understand and use Linux, a lot of time is needed to be invested into learning and research. However, *the benefits outweighs the time spent*. Refer to the previous section (*Why Use Linux*) or reference.

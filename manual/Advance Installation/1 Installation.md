@@ -80,7 +80,7 @@ hwclock --systohc
 ## Language/Locale
 Set up the language/locale of the system:
 ```bash
-vim /etc/locale.gen # Or use your chosen EDITOR
+vim /etc/locale.gen # Or use your chosen editor
 ```
 Uncomment the needed locals. If you are using an English based system, uncomment `en_US.UTF-8` and `UTF-8`.
 ```bash
@@ -144,7 +144,7 @@ useradd -m -G wheel username # replace username with your username
   
 Now, we need to let the `wheel` group have `sudo` privileges. 
 ```bash 
-EDITOR=vim; visudo // Replace EDITOR with your chosen editor
+EDITOR=vim; visudo # Replace vim with your chosen editor
 ```
 Uncomment `%wheel ALL=(ALL) ALL` at line 82. This allows the wheel group to have sudo privileges.
 
