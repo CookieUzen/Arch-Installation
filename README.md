@@ -5,13 +5,13 @@ Welcome to a part guide, part dotfiles repository! This repository includes a co
 ## Manual
 In this folder, I will go through an standard installation of Linux. I mainly cover the distro Manjaro and Arch Linux, yet the instructions are broad enough that you will help with any distro you prefer to use.
   
-If you are a beginner, and perform your first installation of Linux, click [here](./manual/Installation/README.md).
+If you are a beginner, and perform your first installation of Linux, click [here](./manual/Installation).
   
-If you are have some experience with Unix based system, and would like to perform a more challenging Linux installation, click [here](./manual/Advance_Installation/README.md).
+If you are have some experience with Unix based system, and would like to perform a more challenging Linux installation, click [here](./manual/Advance_Installation).
   
-If you have an existing Linux installation and want to _rice it_ (make it cooler and better), click [here](./manual/Ricing/README.md)
+If you have an existing Linux installation and want to _rice it_ (make it cooler and better), click [here](./manual/Ricing)
   
-If you have an existing installation and would like to find some quality software (and some documentation on how to use them), click [here](./manual/Tools/README.md).
+If you have an existing installation and would like to find some quality software (and some documentation on how to use them), click [here](./manual/Tools).
 
 ## Dotfiles
 In this folder, I have a copy of my dotfiles for certain programs. The dotfiles
