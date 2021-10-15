@@ -1,0 +1,5 @@
+* [Home](/)
+* [Installation](installation/README.md)
+* [Advance Installation](advance installation/README.md)
+* [ricing](ricing/README.md)
+* [tools](tools/README.md)

@@ -3,20 +3,20 @@
 Welcome to a part guide, part dotfiles repository! This repository includes a comprehensive guide to installing Linux and the components it is made of. It is essentially a beginner friendly wiki.
   
 ## Manual
+
 In this folder, I will go through an standard installation of Linux. I mainly cover the distro Manjaro and Arch Linux, yet the instructions are broad enough that you will help with any distro you prefer to use.
   
-If you are a beginner, and perform your first installation of Linux, click [here](./manual/Installation/).
+If you are a beginner, and perform your first installation of Linux, click [here](./Installation/).
   
-If you are have some experience with Unix based system, and would like to perform a more challenging Linux installation, click [here](./manual/Advance_Installation).
+If you are have some experience with Unix based system, and would like to perform a more challenging Linux installation, click [here](./Advance_Installation/).
   
-If you have an existing Linux installation and want to _rice it_ (make it cooler and better), click [here](./manual/Ricing/)
+If you have an existing Linux installation and want to _rice it_ (make it cooler and better), click [here](./Ricing/)
   
-If you have an existing installation and would like to find some quality software (and some documentation on how to use them), click [here](./manual/Tools/).
+If you have an existing installation and would like to find some quality software (and some documentation on how to use them), click [here](./Tools/).
 
 ## Dotfiles
-In this folder, I have a copy of my dotfiles for certain programs. The dotfiles
-contain a decent amount of comments to explain the settings and you may draw
-some inspiration from them.
+
+In this folder, I have a copy of my dotfiles for certain programs. The dotfiles contain a decent amount of comments to explain the settings and you might draw some inspiration from them.
   
 I am also working on a bootstrap program. Which would install suitable programs and dotfiles (sensible dotfiles) on a Arch based distro. It would allow you to quickly step up a decent system to tinker with, or simply save time when installing Linux on a new computer. This program takes inspiration from [Luke Smith's LARBS](https://github.com/LukeSmithxyz/LARBS).
 
